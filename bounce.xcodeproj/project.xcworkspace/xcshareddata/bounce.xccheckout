@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0733D069-F259-4F9B-9D6D-5D176249DD57</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bounce</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>98CDAA4DAE5E8EA446152A66B066143AEBBA8E6B</key>
+		<string>https://github.com/rockinbinbin/Bounce.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bounce/bounce.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>98CDAA4DAE5E8EA446152A66B066143AEBBA8E6B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rockinbinbin/Bounce.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>98CDAA4DAE5E8EA446152A66B066143AEBBA8E6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98CDAA4DAE5E8EA446152A66B066143AEBBA8E6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bounce</string>
+		</dict>
+	</array>
+</dict>
+</plist>
